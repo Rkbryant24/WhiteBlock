@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>backphoto.jpeg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>canon.mp3</file>
+    </qresource>
+</RCC>
